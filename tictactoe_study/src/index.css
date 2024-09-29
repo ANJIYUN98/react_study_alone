@@ -1,8 +1,12 @@
 body {
-  font: 14px "Century Gothic", Futura, sans-serif; /* 폰트 글씨체가 Century Gotic있으면 이것 사용 없으면 Futura, 이것도 없으면 sans-serif 사용*/
-  margin: 20px;
+  background-color: #2c3e50;
+  color : #fff;
+  font-family: sans-serif;
+  margin : 0;
+  padding : 0;
 }
 
-/* ol, ul {
-  padding-left: 30px;
-} */
+ol, ul {
+  margin: 0;
+  padding: 0;
+}
